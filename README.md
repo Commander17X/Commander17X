@@ -50,6 +50,11 @@ From coding Minecraft plugins to managing high-performance server racks, I thriv
 ### MadeBySunday.nl
 > My personal brand, portfolio, and the best place to order templates, websites, and more.
 
+### Crypto Insight
+> A project providing insights and analytics for the crypto world. Below is a preview of the project interface:
+>
+> ![Crypto Insight Preview](https://i.imgur.com/AxZi1uw.png)
+
 ---
 
 ## 💡 Fun Facts
