@@ -33,6 +33,7 @@ From coding Minecraft plugins to managing high-performance server racks, I thriv
 ### Trix-Islands
 > Building an amazing Minecraft server with a grateful, talented team.  
 > Our goal: Compete with the best, like DonutSMP—stay tuned for the future!
+> > 💸 Invested 850€ one-time and 245€ each month to support and grow the project—covering plugin development, builds, content creation, and more as the server launches and expands.
 
 ### WLB Blokpunt
 > The greatest place to order LEGO!  
