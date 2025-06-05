@@ -64,8 +64,6 @@ From coding Minecraft plugins to managing high-performance server racks, I thriv
 ## 📫 Contact Me
 
 - 📧 Email: [jaimykoorndijk69@yahoo.com](mailto:jaimykoorndijk69@yahoo.com)
-- 💼 [LinkedIn](https://linkedin.com/in/commander17x)
-- 🐦 [Twitter](https://twitter.com/commander17x)
 - 🌐 [GenoegGeweest.nl](https://genoeggeweest.nl) — My anti-bullying initiative
 - 🌐 [MadeBySunday.nl](https://madebysunday.nl) — My personal brand, portfolio, and template order site
 - 💬 **Discord:** command19x. _(most active here every day!)_
