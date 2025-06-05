@@ -42,7 +42,7 @@ From coding Minecraft plugins to managing high-performance server racks, I thriv
 > Immersive web experiences for GTA V roleplay servers.
 
 ### Solar Panel Home Project
-> Designed and installed a 17-panel solar system for my family home at 18/19.
+> Invested in 17 solar panels for my family at just 18/19 years.
 
 ### GenoegGeweest.nl
 > My personal initiative and website to help stop bullying. A safe space and resource for those in need.
